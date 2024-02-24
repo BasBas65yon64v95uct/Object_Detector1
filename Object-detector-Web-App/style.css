@@ -1,0 +1,15 @@
+h1
+{
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    font: bold;
+    font-family:'Times New Roman', Times, serif;
+}
+a
+{
+    font-size: 20px;
+    width: 400px;
+    border-radius: 30px;
+    background-color: white;
+    color: black;
+}
